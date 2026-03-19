@@ -1,5 +1,9 @@
 {
-  "rewrites": [
-    { "source": "/", "destination": "/qa-automation-report/" }
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "/qa-automation-report/",
+      "permanent": false
+    }
   ]
 }
